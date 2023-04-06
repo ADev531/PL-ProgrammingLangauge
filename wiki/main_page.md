@@ -2,7 +2,11 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+Welcome to PL Wiki!
+You can download package, learn pl syntax!
+--
+PL Series
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
-
+PL OSKit - Beta 1.0 (You can develop os by pl!)
+PLforWeb - Creating (not deployed)
+PL for Application - Creating (same as above)

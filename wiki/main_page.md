@@ -4,7 +4,7 @@ redirect_from: "/"
 
 Welcome to PL Wiki!
 You can download package, learn pl syntax!
---
+
 PL Series
 
 PL OSKit - Beta 1.0 (You can develop os by pl!)
